@@ -1,2 +1,2 @@
 # phonebook
-ANgular 2 Phonebook challenge
+Agular phonebook challenge
